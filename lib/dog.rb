@@ -20,9 +20,9 @@ fido.name = "Fido"
 puts fido.name 
 
 snoopy = Dog.new 
-snoopy.breed= "Beagle"
+snoopy.breed = "Beagle"
 
-puts Beagle
+puts snoopy.breed 
 
 
 
