@@ -19,7 +19,8 @@ fido.name = "Fido"
 
 puts fido.name 
 
-
+snoopy = breed.new 
+snoopy.breed = "Beagle"
 
 
 
