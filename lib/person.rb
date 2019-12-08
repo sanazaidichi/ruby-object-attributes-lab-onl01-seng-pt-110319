@@ -19,7 +19,7 @@ class Person
 end
 
  
-beyonce = person.new
+beyonce = name.new
 beyonce.name = "Beyonce"
 
 
