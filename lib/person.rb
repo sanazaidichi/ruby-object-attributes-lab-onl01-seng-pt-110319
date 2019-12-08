@@ -17,10 +17,3 @@ class Person
   end 
   
 end
-
- 
-beyonce = name.new
-beyonce.name = "Beyonce"
-
-
-puts beyonce.name 
